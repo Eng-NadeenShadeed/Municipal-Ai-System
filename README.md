@@ -91,7 +91,7 @@ The system uses a sequential four-model pipeline for each report:
 3. **Priority Model**: Determines the urgency score.
 4. **Repeat Detection**: Identifies if the issue has been reported multiple times recently.
 
-*Models are trained on 1,000+ historical records for high-precision accuracy (avg. 98% accuracy).*
+*Models are trained on 1,000+ historical records for high-precision accuracy .*
 
 ---
 
